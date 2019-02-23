@@ -10,4 +10,4 @@ LICENSE=""
 SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~ppc64 ~x86"
 
-RDEPEND="virtual/rust-${PV}"
+RDEPEND="=virtual/rust-${PV}"
