@@ -1,0 +1,7 @@
+DEFINED_PHASES=-
+DESCRIPTION=Package manager for Rust
+EAPI=7
+KEYWORDS=*
+RDEPEND==virtual/rust-1.37.0
+SLOT=0
+_md5_=1c7aa1d0d552c378714ceaaef339f9e8
